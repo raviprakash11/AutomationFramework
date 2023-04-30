@@ -8,7 +8,6 @@ Web Automation Framework : This is basic web automation framework made by using 
   </li>
 </ul>
 
-<hr>
 <h2>Standards Guidlines</h2>
 <ul>
   <li>Script writing</li>
@@ -16,7 +15,6 @@ Web Automation Framework : This is basic web automation framework made by using 
   <li>Program writing</li>
 </ul>
 
-<hr>
 <h2>About Framework</h2>
 <ul>
   <li>Framework Artitecture</li>
